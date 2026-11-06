@@ -1,0 +1,43 @@
+﻿@model IEnumerable<AgriStreamMVC.Models.FarmSensor>
+@{
+    ViewData["Title"] = "Farm Sensors"; 
+}
+<link rel="stylesheet" href="https://cloudflare.com">
+
+<div class="container mt-4">
+    <h2 class="text-success"> Farm Sensor Dashboard</h2>
+    <a href="/FarmSensors/Create"
+       class="btn btn-primary mb-3">
+        Add Sensor Reading
+    </a>
+    <table class="table table-bordered table-striped">
+        <thead class="table-success">
+            <tr>
+                <th>Sensor Name</th>
+                <th>Location</th>
+                <th>Reading Value</th>
+                <th>Drone Image</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.SensorName</td>
+                    <td>@item.Location</td>
+                    <td>@item.ReadingValue</td>
+                    <td>
+                        @if (!string.IsNullOrEmpty(item.ImageUrl))
+                        {
+                            <img src="@item.ImageUrl" alt="Drone Image" width="100" />
+                        }
+                        else
+                        {
+                            <span>No Image</span>
+                        }
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

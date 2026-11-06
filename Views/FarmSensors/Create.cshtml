@@ -1,0 +1,79 @@
+﻿@model AgriStreamMVC.Models.FarmSensor
+
+<h2>Add Sensor Reading</h2>
+
+<form asp-action="Create"
+      method="post"
+      enctype="multipart/form-data">
+
+    <div class="mb-3">
+        <label>Sensor Name</label>
+        <input asp-for="SensorName"
+               class="form-control" />
+    </div>
+
+    <div class="mb-3">
+        <label>Location</label>
+        <input asp-for="Location"
+               class="form-control" />
+    </div>
+
+    <div class="mb-3">
+        <label>Reading Value</label>
+        <input asp-for="ReadingValue"
+               class="form-control" />
+    </div>
+
+    <div class="mb-3">
+        <label>Drone Image</label>
+        <input type="file"
+               id="imageFile"
+               name="imageFile"
+               class="form-control" />
+    </div>
+
+    <button type="submit"
+            class="btn btn-success">
+        Save Sensor
+    </button>
+
+</form>
+
+@*@model AgriStreamMVC.Models.FarmSensor
+
+<h2> Add Sensor Reading</h2>
+
+<form asp-action="Create" method="post" enctype="multipart/form-data" >
+    <div class="mb-3">
+        <label>Sensor Name</label>
+        <input asp-for="SensorName" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label>Location</label>
+        <input asp-for="Location" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label>Reading Value</label>
+        <input asp-for="ReadingValue" class="form-control" />
+    </div>
+
+   @* <div class="mb-3">
+        <label>Image</label>
+        <input type="file" asp-for="ImageUrl" class="form-control" />
+    </div>  
+@* 
+
+    <div class="mb-3">   
+        <label>Drone Image</label>
+        <input type="file"
+            name=" imageFile"
+            class=" "form-control" />   
+    </div>
+
+
+    <button type="submit" class="btn btn-success">
+        Save Sensor
+    </button>
+
+</form> 
+*@

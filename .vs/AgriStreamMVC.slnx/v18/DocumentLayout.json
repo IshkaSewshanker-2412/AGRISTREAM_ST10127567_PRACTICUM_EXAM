@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Semester 2\\CLDV7112w\\ST10127567_CLDV7112_PRACTICUM EXAM\\AgriStreamMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50B6A99C-924C-4120-A243-97ECD9297A9A}|AgriStreamMVC.csproj|c:\\semester 2\\cldv7112w\\st10127567_cldv7112_practicum exam\\agristreammvc\\views\\farmsensors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50B6A99C-924C-4120-A243-97ECD9297A9A}|AgriStreamMVC.csproj|solutionrelative:views\\farmsensors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B6A99C-924C-4120-A243-97ECD9297A9A}|AgriStreamMVC.csproj|c:\\semester 2\\cldv7112w\\st10127567_cldv7112_practicum exam\\agristreammvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50B6A99C-924C-4120-A243-97ECD9297A9A}|AgriStreamMVC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B6A99C-924C-4120-A243-97ECD9297A9A}|AgriStreamMVC.csproj|c:\\semester 2\\cldv7112w\\st10127567_cldv7112_practicum exam\\agristreammvc\\controllers\\farmsensorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50B6A99C-924C-4120-A243-97ECD9297A9A}|AgriStreamMVC.csproj|solutionrelative:controllers\\farmsensorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B6A99C-924C-4120-A243-97ECD9297A9A}|AgriStreamMVC.csproj|c:\\semester 2\\cldv7112w\\st10127567_cldv7112_practicum exam\\agristreammvc\\views\\farmsensors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50B6A99C-924C-4120-A243-97ECD9297A9A}|AgriStreamMVC.csproj|solutionrelative:views\\farmsensors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B6A99C-924C-4120-A243-97ECD9297A9A}|AgriStreamMVC.csproj|c:\\semester 2\\cldv7112w\\st10127567_cldv7112_practicum exam\\agristreammvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{50B6A99C-924C-4120-A243-97ECD9297A9A}|AgriStreamMVC.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Semester 2\\CLDV7112w\\ST10127567_CLDV7112_PRACTICUM EXAM\\AgriStreamMVC\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Semester 2\\CLDV7112w\\ST10127567_CLDV7112_PRACTICUM EXAM\\AgriStreamMVC\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T11:29:42.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Semester 2\\CLDV7112w\\ST10127567_CLDV7112_PRACTICUM EXAM\\AgriStreamMVC\\Views\\FarmSensors\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\FarmSensors\\Index.cshtml",
+              "ToolTip": "C:\\Semester 2\\CLDV7112w\\ST10127567_CLDV7112_PRACTICUM EXAM\\AgriStreamMVC\\Views\\FarmSensors\\Index.cshtml",
+              "RelativeToolTip": "Views\\FarmSensors\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-06T11:05:31.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FarmSensorsController.cs",
+              "DocumentMoniker": "C:\\Semester 2\\CLDV7112w\\ST10127567_CLDV7112_PRACTICUM EXAM\\AgriStreamMVC\\Controllers\\FarmSensorsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FarmSensorsController.cs",
+              "ToolTip": "C:\\Semester 2\\CLDV7112w\\ST10127567_CLDV7112_PRACTICUM EXAM\\AgriStreamMVC\\Controllers\\FarmSensorsController.cs",
+              "RelativeToolTip": "Controllers\\FarmSensorsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T10:59:20.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Semester 2\\CLDV7112w\\ST10127567_CLDV7112_PRACTICUM EXAM\\AgriStreamMVC\\Views\\FarmSensors\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\FarmSensors\\Create.cshtml",
+              "ToolTip": "C:\\Semester 2\\CLDV7112w\\ST10127567_CLDV7112_PRACTICUM EXAM\\AgriStreamMVC\\Views\\FarmSensors\\Create.cshtml",
+              "RelativeToolTip": "Views\\FarmSensors\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-06T10:52:43.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Semester 2\\CLDV7112w\\ST10127567_CLDV7112_PRACTICUM EXAM\\AgriStreamMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Semester 2\\CLDV7112w\\ST10127567_CLDV7112_PRACTICUM EXAM\\AgriStreamMVC\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-06T07:54:23.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
